@@ -1,6 +1,6 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define rpm_device 5z
+%define rpm_device Z01R
 %define rpm_vendor asus
 
 # Manufacturer and device name to be shown in UI
